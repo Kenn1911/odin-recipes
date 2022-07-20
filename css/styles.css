@@ -1,0 +1,49 @@
+body {
+    background-color:blanchedalmond;
+    background-image: url(../img/restaurant_icons.png);
+    color: rgb(85, 41, 9);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 32px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    padding-left: 8px;
+}
+
+.prevpic {
+    border-radius: 8px;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.listcontent {
+    background-color:mintcream;
+    background-image:url(../img/so-white.png);
+    min-width: 400px;
+    max-width: 800px;
+    margin: 0px;
+    border-width: 1px;
+    border-left-width: 3px;
+    border-color: rgb(85, 41, 9);
+    border-style: ridge;
+    border-left-style:solid;
+    padding: 8px 8px 8px 0px;
+}
+
+.content2 {
+    background-color:mintcream;    
+    background-image:url(../img/so-white.png);
+    min-width: 400px;
+    max-width: 800px;
+    margin: 0px;
+    border-width: 1px;
+    border-left-width: 3px;
+    border-color: rgb(85, 41, 9);
+    border-style: ridge;
+    border-left-style: solid;
+    padding: 8px 8px;
+}
